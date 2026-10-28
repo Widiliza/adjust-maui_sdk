@@ -1,0 +1,3 @@
+# Widilo scripts run with bash on the Mac: a CRLF checkout would put "\r" into the versions read from versions.env
+*.sh text eol=lf
+widilo/versions.env text eol=lf

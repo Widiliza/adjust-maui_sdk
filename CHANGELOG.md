@@ -1,3 +1,21 @@
+### Version 5.5.0-widilo.2 (28th October 2026)
+
+Internal Widilo build of the 5.5.0 MAUI wrapper with updated native SDKs. The C# API is unchanged: new native features are not exposed.
+
+#### Changed
+- Updated the native Android SDK to 5.8.1 (official `com.adjust.sdk:adjust-android:5.8.1` from Maven Central).
+- Updated the native iOS SDK to 5.8.1 (official `AdjustSdk-iOS-tvOS-Dynamic-5.8.1.xcframework` release asset).
+- Updated the Adjust Signature library to 5.8.0 on Android and iOS.
+
+#### Fixed
+- [iOS] Kept the strong reference to the delegate adapter so attribution and session callbacks are not lost (from 5.5.0-widilo.1).
+
+#### Native SDKs
+- [iOS@v5.8.1](https://github.com/adjust/ios_sdk/tree/v5.8.1)
+- [Android@v5.8.1](https://github.com/adjust/android_sdk/tree/v5.8.1)
+
+---
+
 ### Version 5.5.0 (15th January 2026)
 
 #### Added

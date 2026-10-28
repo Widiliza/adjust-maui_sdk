@@ -63,6 +63,7 @@
     @name='AdjustFactory' or
     @name='AdjustInstance' or
     @name='AdjustTimeoutCallback' or
+    @name='ObjectInputFilterStream' or
     @name='GooglePlayInstallReferrerDetails']" />
 
   <!-- Remove internal test/callback interfaces -->
