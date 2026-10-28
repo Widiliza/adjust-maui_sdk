@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<data>
-		hBbcUU3zG4S6Qx8fcvgzwdGNxcc=
+		2A5OHp2V5t5dhKjHB9KynlEQGhk=
 		</data>
 		<key>ios-arm64/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/AdjustSigSdk.framework/Info.plist</key>
 		<data>
-		vcpBp2VifdYofX5X2uNk4OuwVCc=
+		EHK7HmyVnh2Yqt3M69dcCQ7uwAY=
 		</data>
 		<key>ios-arm64/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>ios-arm64/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		NUVYytDAElhQJbZto9aT+q3S02E=
+		FXXKRqS0wSX7EUU789zOfMU2gBA=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/AdjustSigSdk</key>
 		<data>
-		GuBF/51IZDYr5XJ843jgSZ88BVw=
+		cnpOruuJ8G7c1Qpg2wuLD14uEFI=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Headers/ADJSigner.h</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Resources/Info.plist</key>
 		<data>
-		L2648/y9fC0FTlF7n+TPBk1n7S8=
+		R9ijXMAR65fS3BvGkTtX7saBUQE=
 		</data>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<data>
-		NUVYytDAElhQJbZto9aT+q3S02E=
+		FXXKRqS0wSX7EUU789zOfMU2gBA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<data>
-		cssK9q7+NJo3oAJdK2mJRRnF6Cg=
+		ERReA/gNOLSnLREj6g0zb/Nqs5M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Info.plist</key>
 		<data>
-		tIJoHY28yzSu7BPs6sWDk3LckiE=
+		dyl2ZRytPue5orMpD/J6CSf3qF4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		NUVYytDAElhQJbZto9aT+q3S02E=
+		FXXKRqS0wSX7EUU789zOfMU2gBA=
 		</data>
 		<key>tvos-arm64/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<data>
-		zhCb/v2xPKE5O5rVToANEAyoibA=
+		C446PJgKcwmYOWRZ9xo/1B59tLU=
 		</data>
 		<key>tvos-arm64/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>tvos-arm64/AdjustSigSdk.framework/Info.plist</key>
 		<data>
-		QSnZnSEHoiWpZv+33957dRU7WZg=
+		jYGJv5+czM215JcMl/ZKTj1oOLw=
 		</data>
 		<key>tvos-arm64/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>tvos-arm64/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		NUVYytDAElhQJbZto9aT+q3S02E=
+		FXXKRqS0wSX7EUU789zOfMU2gBA=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<data>
-		dpj2a4LIta+llVbpP5MjwnhO5pE=
+		0QahN7vCweT4w0PHS776pWL5yUk=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Info.plist</key>
 		<data>
-		duYSMuuD14GxXMucGD1F/+RwWs0=
+		3LOzSE5zZCWJKpfOL/FqU4YOlDI=
 		</data>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<data>
@@ -102,28 +102,20 @@
 		</data>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		NUVYytDAElhQJbZto9aT+q3S02E=
+		FXXKRqS0wSX7EUU789zOfMU2gBA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>ios-arm64/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hBbcUU3zG4S6Qx8fcvgzwdGNxcc=
-			</data>
 			<key>hash2</key>
 			<data>
-			m85ifikSq2I3pZfEbHd1NlUjEC5gGNTN/FVkQXRUAlk=
+			8er5peAeQ3DjJEqqdMBA8X6Hjc9miWUKhdxRoBEkQHM=
 			</data>
 		</dict>
 		<key>ios-arm64/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qNVethdalcVdC9jWWwf/Ywz7sE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7oGvnhwPh8hmaUYhYYWASkPX9QzCXcdF9JI1cfouEM=
@@ -131,21 +123,13 @@
 		</dict>
 		<key>ios-arm64/AdjustSigSdk.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vcpBp2VifdYofX5X2uNk4OuwVCc=
-			</data>
 			<key>hash2</key>
 			<data>
-			u/UqEfKV5YcTVRqljZHzTrViU6e1q2/Uwd5ADExSAEA=
+			OkpGurolJfGRTwEadXlnT0TIRu1K1qXlzAKrY3N7kAU=
 			</data>
 		</dict>
 		<key>ios-arm64/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PN3uj8Df1Ep4w5ZlPHNWwb/rUgs=
-			</data>
 			<key>hash2</key>
 			<data>
 			kd9v81OmO3cFRLQihqVnRnZfiUg8ZhjRGvn6pUSmt9E=
@@ -153,13 +137,9 @@
 		</dict>
 		<key>ios-arm64/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NUVYytDAElhQJbZto9aT+q3S02E=
-			</data>
 			<key>hash2</key>
 			<data>
-			H7LiQq8ciLJAzBx48ZsejnlzwxeBEh6seF8h1ZtXnpk=
+			2vXm3SDRMadtJDVC/1TiUIRkLN0yg5DfFfr+gK1DHM4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/AdjustSigSdk</key>
@@ -184,21 +164,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/AdjustSigSdk</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GuBF/51IZDYr5XJ843jgSZ88BVw=
-			</data>
 			<key>hash2</key>
 			<data>
-			tAx3jWi2Qf3jiq5CXfO7yy9g/sxYxk8tdy3fgcNEfP4=
+			KtyihQ6fl7eset5TF3OuyWeDAG6Gnz198rn1qzWJUL0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Headers/ADJSigner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qNVethdalcVdC9jWWwf/Ywz7sE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7oGvnhwPh8hmaUYhYYWASkPX9QzCXcdF9JI1cfouEM=
@@ -206,10 +178,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PN3uj8Df1Ep4w5ZlPHNWwb/rUgs=
-			</data>
 			<key>hash2</key>
 			<data>
 			kd9v81OmO3cFRLQihqVnRnZfiUg8ZhjRGvn6pUSmt9E=
@@ -217,24 +185,16 @@
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Resources/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			L2648/y9fC0FTlF7n+TPBk1n7S8=
-			</data>
 			<key>hash2</key>
 			<data>
-			pp+AS3ySMPBXKIVls68CHZ+90WXNe+MILI3TKT8BRwA=
+			HVqZt7BKFIOmoGn+j9dphJPQiz2sygJRsL4Ny/5ygfU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/A/Resources/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NUVYytDAElhQJbZto9aT+q3S02E=
-			</data>
 			<key>hash2</key>
 			<data>
-			H7LiQq8ciLJAzBx48ZsejnlzwxeBEh6seF8h1ZtXnpk=
+			2vXm3SDRMadtJDVC/1TiUIRkLN0yg5DfFfr+gK1DHM4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-maccatalyst/AdjustSigSdk.framework/Versions/Current</key>
@@ -244,21 +204,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cssK9q7+NJo3oAJdK2mJRRnF6Cg=
-			</data>
 			<key>hash2</key>
 			<data>
-			908VmQhWTE0wV+tSCt2q0mgBzTf+xOYiW1ZVh2fcg+U=
+			6T/jwDex8E/3z7fkPvaKz2/8bqD08W9PdhBzpyOESFk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qNVethdalcVdC9jWWwf/Ywz7sE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7oGvnhwPh8hmaUYhYYWASkPX9QzCXcdF9JI1cfouEM=
@@ -266,21 +218,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tIJoHY28yzSu7BPs6sWDk3LckiE=
-			</data>
 			<key>hash2</key>
 			<data>
-			6bCNk46LeXg+xnmSt4zQG37K46zVTuDWUoCMs1lp/6M=
+			6Uow3On/20aRWmvuQSywEXDSzaGK85n+/2n4b6bxHDI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PN3uj8Df1Ep4w5ZlPHNWwb/rUgs=
-			</data>
 			<key>hash2</key>
 			<data>
 			kd9v81OmO3cFRLQihqVnRnZfiUg8ZhjRGvn6pUSmt9E=
@@ -288,32 +232,20 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NUVYytDAElhQJbZto9aT+q3S02E=
-			</data>
 			<key>hash2</key>
 			<data>
-			H7LiQq8ciLJAzBx48ZsejnlzwxeBEh6seF8h1ZtXnpk=
+			2vXm3SDRMadtJDVC/1TiUIRkLN0yg5DfFfr+gK1DHM4=
 			</data>
 		</dict>
 		<key>tvos-arm64/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zhCb/v2xPKE5O5rVToANEAyoibA=
-			</data>
 			<key>hash2</key>
 			<data>
-			tvhYNluiR064efKlB+Gd/uiB+hRuQN9s2ijIH4C2JNM=
+			0iDY8PNEMQCYQAtEA2mB+GN8mNGewViymYEKCh32cBE=
 			</data>
 		</dict>
 		<key>tvos-arm64/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qNVethdalcVdC9jWWwf/Ywz7sE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7oGvnhwPh8hmaUYhYYWASkPX9QzCXcdF9JI1cfouEM=
@@ -321,21 +253,13 @@
 		</dict>
 		<key>tvos-arm64/AdjustSigSdk.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QSnZnSEHoiWpZv+33957dRU7WZg=
-			</data>
 			<key>hash2</key>
 			<data>
-			57DJeG3vPCzhJ3mvR81wY/+q+vbGNqwpwnxEl/jnZik=
+			zCVDsUpk0PL3DoLVhK2YtPgQx9XSQ4jfZWX+6egYu2k=
 			</data>
 		</dict>
 		<key>tvos-arm64/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PN3uj8Df1Ep4w5ZlPHNWwb/rUgs=
-			</data>
 			<key>hash2</key>
 			<data>
 			kd9v81OmO3cFRLQihqVnRnZfiUg8ZhjRGvn6pUSmt9E=
@@ -343,32 +267,20 @@
 		</dict>
 		<key>tvos-arm64/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NUVYytDAElhQJbZto9aT+q3S02E=
-			</data>
 			<key>hash2</key>
 			<data>
-			H7LiQq8ciLJAzBx48ZsejnlzwxeBEh6seF8h1ZtXnpk=
+			2vXm3SDRMadtJDVC/1TiUIRkLN0yg5DfFfr+gK1DHM4=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/AdjustSigSdk</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dpj2a4LIta+llVbpP5MjwnhO5pE=
-			</data>
 			<key>hash2</key>
 			<data>
-			8CYxO+C1bgPHQf8cbC/hvyvuz7MrUW+IDlc7wO+6RSw=
+			40zm1fR8e574THcwpcKjtnMvjlYJvbeS2d0ejzst+Ps=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Headers/ADJSigner.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qNVethdalcVdC9jWWwf/Ywz7sE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			+7oGvnhwPh8hmaUYhYYWASkPX9QzCXcdF9JI1cfouEM=
@@ -376,21 +288,13 @@
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			duYSMuuD14GxXMucGD1F/+RwWs0=
-			</data>
 			<key>hash2</key>
 			<data>
-			sQEEsObiLGqZmHGwra6pGU+Dorhaj1GcU44e/IhVJKI=
+			hEoCJm2G2pp0LwoK+vFngx9aAy0LFGGCZakq0VQlRgM=
 			</data>
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PN3uj8Df1Ep4w5ZlPHNWwb/rUgs=
-			</data>
 			<key>hash2</key>
 			<data>
 			kd9v81OmO3cFRLQihqVnRnZfiUg8ZhjRGvn6pUSmt9E=
@@ -398,13 +302,9 @@
 		</dict>
 		<key>tvos-arm64_x86_64-simulator/AdjustSigSdk.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NUVYytDAElhQJbZto9aT+q3S02E=
-			</data>
 			<key>hash2</key>
 			<data>
-			H7LiQq8ciLJAzBx48ZsejnlzwxeBEh6seF8h1ZtXnpk=
+			2vXm3SDRMadtJDVC/1TiUIRkLN0yg5DfFfr+gK1DHM4=
 			</data>
 		</dict>
 	</dict>
